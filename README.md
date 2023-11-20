@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**iristsai1013/iristsai1013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###經歷
+🏫輔仁大學 \ 
+🏬Costco 
 
-Here are some ideas to get you started:
+###興趣
+💃Dancing \
+🎥drama \
+🏄‍♀️surfing \ 
+💻computer game
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###專長
+🖥️Python \
+⚛️searching
+
+
